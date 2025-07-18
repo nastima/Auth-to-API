@@ -1,2 +1,2 @@
 # Auth-to-API
-![Uploading image.png…]()
+![Описание изображения](фото1.jpg)
